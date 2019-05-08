@@ -2,18 +2,20 @@
 You can see the finished presentation at https://dcmcand.github.io/nhla2019-demo
 
 
-# To get started #
-1. Clone (download) https://github.com/hakimel/reveal.js to your computer
-1. Follow instructions in the README to allow external Markdown for slides
-2. Edit the external markdown file to create your slides
+
+## Plan for Today ##
+1. Create a presentation
+1. Create a new Github repository
+2. Upload your slideshow to Github
+3. Setup Github pages to host your content (For Free!)
+
+
+
+## Basics ##
+1. Clone (download) [Reveal.js](https://github.com/hakimel/reveal.js) to your computer
+1. Follow instructions in the README to enable external Markdown (Optional)
+2. Edit the markdown file to create your slides
 3. Open the index.html file in your local browser
-
-
-
-# Getting Started - advanced #
-2. Create a new Github repository
-3. Upload your slideshow to Github
-4. Setup Github pages to host your content (For Free!)
 
 
 
@@ -47,6 +49,7 @@ Slide Fragments
 
 Themes
 There are <a href="https://revealjs.com/?transition=slide#/themes" target="blank">themes</a> built in, or you can create custom themes by editing the css files directly.
+
 
 
 Backgrounds <!-- .slide: data-background="#dddddd" -->
