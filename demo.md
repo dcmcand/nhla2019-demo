@@ -47,7 +47,6 @@ Slide Fragments
 
 Themes
 There are <a href="https://revealjs.com/?transition=slide#/themes" target="blank">themes</a> built in, or you can create custom themes by editing the css files directly.
-<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
 
 
 Backgrounds <!-- .slide: data-background="#dddddd" -->
